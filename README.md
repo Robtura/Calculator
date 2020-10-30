@@ -10,10 +10,10 @@ This is my first console application that can make basic calculations.
 
 # How to calculate
 
-1. Enter the first number
-2. Enter the desired operator
-3. Enter the second number
-4. Press any key to close the app
+1. Enter the first number.
+2. Enter the desired operator.
+3. Enter the second number.
+4. Press any key to close the app.
 
 # References
 
