@@ -17,4 +17,4 @@ This is my first console application that can make basic calculations.
 
 # References
 
-Udemy C# masterclass course.
+Udemy C# Masterclass course.
