@@ -8,6 +8,10 @@ This is my first console application that can make basic calculations.
 2. Extract files, right-click, and select extract here.
 3. Go to the calculator's folder and double-click on the shortcut.
 
+# Dependencies
+- Windows
+- Visual Studio
+
 # How to calculate
 
 1. Enter the first number.
